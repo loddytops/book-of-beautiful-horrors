@@ -1,0 +1,31 @@
+{
+  "name": "book-of-beautiful-horrors",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "title": "The Book of Beautiful Horrors",
+  "description": "Statblocks from the Book of Beautiful Horrors",
+  "version": "10.6",
+  "authors": [
+    {
+      "name": "Loddytops",
+      "discord": "Loddytops#7664"
+    }
+  ],
+"packs": [
+  {
+    "name": "bbh-monsters",
+    "label": "BBH Monsters",
+    "path": "./packs/bbh-monsters.db",
+    "type": "Actor",
+    "system": "dnd5e"
+  }
+],
+"url": "https://github.com/loddytops/book-of-beautiful-horrors",
+"download": "https://github.com/loddytops/book-of-beautiful-horrors/archive/refs/heads/main.zip",
+"manifest": "https://raw.githubusercontent.com/loddytops/book-of-beautiful-horrors/main/module.json",
+"id": "book-of-beautiful-horrors",
+"compatibility": {
+  "minimum": "10",
+  "verified": "10"
+}
+}
