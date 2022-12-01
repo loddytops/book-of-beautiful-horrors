@@ -1,0 +1,29 @@
+{
+  "name": "BBH",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "title": "The Book of Beautiful Horrors",
+  "description": "Stat blocks from the Book of Beautiful Horrors",
+  "version": "10.6",
+  "authors": [
+    {
+      "name": "Loddytops",
+      "discord": "Loddytops#7664"
+    }
+  ],
+"packs": [
+  {
+    "name": "bbh-Monsters",
+    "label": "BBH Monsters",
+    "path": "./packs/bbh-Monsters.db",
+    "type": "Actor",
+    "system": "dnd5e"
+  }
+],
+"compatibility": {
+  "minimum": "10",
+  "verified": "10"
+},
+  "manifest": "",
+  "download": ""
+}
