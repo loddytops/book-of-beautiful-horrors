@@ -22,7 +22,7 @@
 ],
 "url": "https://github.com/loddytops/book-of-beautiful-horrors",
 "download": "https://github.com/loddytops/book-of-beautiful-horrors/archive/refs/heads/main.zip",
-"manifest": "https://github.com/loddytops/book-of-beautiful-horrors/module.json",
+"manifest": "https://raw.githubusercontent.com/loddytops/book-of-beautiful-horrors/main/module.json",
 "id": "book-of-beautiful-horrors",
 "compatibility": {
   "minimum": "10",
